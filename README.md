@@ -1,5 +1,3 @@
-# ethers_examples
-
 
 # Ethers.js by Example
 Learn how to use ethers.js from these examples
